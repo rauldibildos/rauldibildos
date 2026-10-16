@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Raúl
 [![Github](https://img.shields.io/github/followers/rauldibildos?label=Follow&style=social)](https://github.com/rauldibildos)
 
-- 🔭 I’m Raúl González
+- 🔭 I’m Raúl Dibildos
 - 🏠 I live in Madrid/Spain
 - 👨‍👧‍👦 I’m father of two incredible kids, Leo & Noa
 - 🧡 I love learning about people and technology
